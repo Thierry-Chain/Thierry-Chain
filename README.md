@@ -9,7 +9,7 @@
 
 <h1 align="center"></h1>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,gitreact,nextjs)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,git,react,nextjs)
 <!---
 Thierry-Chain/Thierry-Chain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
